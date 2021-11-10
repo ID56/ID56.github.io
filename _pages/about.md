@@ -12,6 +12,9 @@ Hi there. I'm an AI Engineer at Intelligent Machines. Earlier this year, I obtai
 
 My research interests include:
 
-1. Efficient deep learning methods, TinyML
-2. Deep generative adversarial networks
-3. Deep learning applications in vision, audio, human kinematics
+- Computer Vision and Deep learning applications in audio and  human kinematics
+- TinyML and efficient deep learning algorithms
+- Deep generative adversarial networks
+- Representation learning
+
+You may reach me at: mashrur [at] intelligentmachin [dot] es, or mashrurmahmud [at] iut [dash] dhaka [dot] edu
