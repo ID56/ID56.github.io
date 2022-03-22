@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You may download my full resume [here](https://drive.google.com/file/d/1eacwY5XDVc1qDLjM2qAP8nPqOaNUn9SK/view?usp=sharing). <br>
+You may download my full resume [here](https://github.com/ID56/ID56.github.io/blob/master/files/resume.pdf). <br>
 {% include base_path %}
 
 Education
