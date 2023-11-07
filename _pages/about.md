@@ -8,13 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi there. I'm an AI Engineer at Intelligent Machines. I obtained my CS Bachelor's degree from the Islamic University of Technology (IUT), in March 2021.
+Hi there. I am a first-year CS PhD student at Michigan State University, supervised by Dr. Vishnu Boddeti. Before my PhD, I used to be an AI-Engineer at [Intelligent Machines](https://bangladesh.ai). I obtained my CS Bachelor's degree from the Islamic University of Technology (IUT), in March 2021.
 
-My research interests include:
+At present, I am working on diffusion models for 3D face reconstruction and diffusion guidance algorithms.
 
-- Deep learning for vision, audio and  human kinematics
-- Resource-efficient deep learning algorithms
-- Representation learning
-- GANs
-
-You may reach me at: mashrur [at] intelligentmachin [dot] es, or mashrurmahmud [at] iut [dash] dhaka [dot] edu
+You may reach me at: `morshedm [at] msu [dot] edu`.

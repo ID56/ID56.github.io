@@ -7,17 +7,18 @@ redirect_from:
   - /resume
 ---
 
-You may download my full resume [here](https://github.com/ID56/ID56.github.io/blob/master/files/resume.pdf). <br>
+You can download my resume [here](https://github.com/mashrurmorshed/mashrurmorshed.github.io/blob/master/files/resume.pdf). <br>
 {% include base_path %}
 
 Education
 ======
-* BSc in Computer Science & Engineering, Islamic University of Technology, March 2021
+* PhD in Computer Science, Michigan State University, Jan 2023 - Present
+* BSc in Computer Science & Engineering, Islamic University of Technology, Jan 2017 - Mar 2021
 
 Work experience
 ======
 * Intelligent Machines
-  * AI Engineer, Feb 2021 - Present
+  * AI Engineer, Feb 2021 - Jun 2022
   * AI Apprentice, Feb 2020 - Jan 2021
 
 * Samsung R&D Institute Bangladesh (SRBD)
